@@ -32,6 +32,5 @@ D:\workspace\repositories\labs-repository\dot-net\CadeMeuMedico\CadeMeuMedico\bi
 D:\workspace\repositories\labs-repository\dot-net\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.WebPages.resources.dll
 D:\workspace\repositories\labs-repository\dot-net\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
 D:\workspace\repositories\labs-repository\dot-net\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.WebPages.Razor.resources.dll
-D:\workspace\repositories\labs-repository\dot-net\CadeMeuMedico\CadeMeuMedico\obj\Debug\CadeMeuMedico.csprojResolveAssemblyReference.cache
 D:\workspace\repositories\labs-repository\dot-net\CadeMeuMedico\CadeMeuMedico\obj\Debug\CadeMeuMedico.dll
 D:\workspace\repositories\labs-repository\dot-net\CadeMeuMedico\CadeMeuMedico\obj\Debug\CadeMeuMedico.pdb
